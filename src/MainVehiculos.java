@@ -71,3 +71,6 @@ public class MainVehiculos {
                 .eliminarVehiculo("1234ENG");
 
         System.out.println(registro.obtenerTodos());
+
+    }
+}
